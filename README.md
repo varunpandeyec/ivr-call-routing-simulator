@@ -97,7 +97,18 @@ ivr-call-routing-simulator/
 │   ├── blacklist-sample.csv
 ```
 
+## How to Run
 
+1. Make sure Python is installed (3.x)
+2. Run the IVR simulator:
+
+```
+python app/main.py
+```
+
+3. Follow prompts in terminal:
+- Enter ANI (caller number)
+- Enter ticket or press 1 to create ticket
 
 
 Key Highlights
