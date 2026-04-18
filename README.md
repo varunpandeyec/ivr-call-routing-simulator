@@ -79,13 +79,23 @@ Tech Stack
 
 ⸻
 
-Project Structure
+## Project Structure
 
 ivr-call-routing-simulator/
 │
 ├── call-flows/
+│   ├── main-flow.md
+│   ├── ticket-lookup-flow.md
+│   ├── ticket-creation-flow.md
+│
 ├── api/
+│   ├── ticket-lookup.json
+│   ├── ticket-create.json
+│
 ├── data/
+│   ├── blacklist-sample.csv
+
+
 
 
 Key Highlights
