@@ -81,6 +81,7 @@ Tech Stack
 
 ## Project Structure
 
+```
 ivr-call-routing-simulator/
 │
 ├── call-flows/
@@ -94,6 +95,7 @@ ivr-call-routing-simulator/
 │
 ├── data/
 │   ├── blacklist-sample.csv
+```
 
 
 
