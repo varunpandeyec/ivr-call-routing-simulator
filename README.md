@@ -111,6 +111,9 @@ python app/main.py
 - Enter ticket or press 1 to create ticket
 
 
+## IVR Flow Diagram
+
+![IVR Flow](ivr-flow.png)
 Key Highlights
 
 * Simulates enterprise-grade IVR system
